@@ -115,7 +115,6 @@ python3 main.py
 | 📖 `README.md` | Project documentation |
 
 ## 📸 7. Output / Screenshots
-
 ![Program Output](output.png)
      
 
