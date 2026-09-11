@@ -120,5 +120,5 @@ python3 main.py
 
  ## 👨‍💻 8. Author / Developer Name
 
- **👤 Name:** Kunal Vaghela**
+ **👤 Name: Kunal Vaghela** 
 
